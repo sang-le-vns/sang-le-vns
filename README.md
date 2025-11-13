@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--TOTAL_COMMITS_LIFE:START-->
+<!--TOTAL_COMMITS_LIFE:END-->
